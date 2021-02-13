@@ -1,4 +1,4 @@
-# Silver Layer Datalake Persistence Lambda
+# Data Lake Silver Layer
 
 > The purpose of this project is to prepare a study environment.
 
@@ -8,7 +8,7 @@ Additionally, the project uses the [serverless-python-requirements](https://gith
 
 <p align="center"><img src="docs/silver.png"></p>
 
-This project is the first step of the ingestion pipeline study. The last one is [Gold Layer Datalake Persistence Lambda](https://github.com/fillipevieira/lambda-datalake-gold)  
+This project is the first step of the ingestion pipeline study. The last one is [Data Lake Gold Layer](https://github.com/fillipevieira/lambda-datalake-gold)  
 
 ## Tech Stack
 - Infra
