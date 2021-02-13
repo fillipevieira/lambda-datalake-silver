@@ -4,9 +4,11 @@
 
 This project gives you an **AWS Lambda** function in manual execution mode to request unstructured data from [OMDb API](http://www.omdbapi.com/)
 and persist on AWS S3 storage.
-Additionally, the project uses the [serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) for the [Serverless Framework](https://www.serverless.com/), with the purpose of dealing Python packaging in AWS Lambda.
+Additionally, the project uses the [serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) for the [Serverless Framework](https://www.serverless.com/), with the purpose of dealing Python packaging on AWS Lambda.
 
 <p align="center"><img src="docs/silver.png"></p>
+
+This project is the first step of the ingestion pipeline study. The last one is [Gold Layer Datalake Persistence Lambda](https://github.com/fillipevieira/lambda-datalake-gold)  
 
 ## Tech Stack
 - Infra
